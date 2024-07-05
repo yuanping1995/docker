@@ -8,4 +8,3 @@ deb https://mirrors.aliyun.com/debian/ bullseye-updates main non-free contrib \
 deb-src https://mirrors.aliyun.com/debian/ bullseye-updates main non-free contrib \
 deb https://mirrors.aliyun.com/debian/ bullseye-backports main non-free contrib \
 deb-src https://mirrors.aliyun.com/debian/ bullseye-backports main non-free contrib" > /etc/apt/sources.list
-
